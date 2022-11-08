@@ -18,7 +18,8 @@ def palindrome(x):
     else:
         print ("false")
         
-        
+   #X = str(x)
+    #    return X == X[::-1]        
     
     
     
